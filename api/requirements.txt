@@ -1,0 +1,4 @@
+Flask
+Celery
+Redis
+gunicorn==19.9.0
